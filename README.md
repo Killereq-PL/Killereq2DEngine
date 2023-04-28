@@ -6,6 +6,9 @@ A turtle-based Python 2D engine/library
 
 </br>
 
+[Wiki/Docs:](https://pages.github.com/)
+
+</br>
 # Example
 ```python
 import KillereqEngine
