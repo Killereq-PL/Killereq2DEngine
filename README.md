@@ -6,7 +6,7 @@ A turtle-based Python 2D engine/library
 
 </br>
 
-[Wiki/Docs:](https://pages.github.com/)
+[Wiki/Docs](https://github.com/Killereq-PL/Killereq2DEngine/wiki)
 
 </br>
 # Example
