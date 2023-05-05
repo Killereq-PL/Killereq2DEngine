@@ -1,7 +1,7 @@
 Killereq2DEngine
 ======
 ### //WORK IN PROGRESS//
-A turtle-based Python 2D engine/library
+A tkinter-based Python 2D engine/library
 ##### *Needs Python 3
 
 </br>
